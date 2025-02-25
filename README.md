@@ -1,6 +1,7 @@
 Bhavesh-Portfolio
 
 Overview
+
 Welcome to my personal portfolio website! This project showcases my skills, projects, and contact information in a sleek and user-friendly design. The site is built with HTML, CSS, and JavaScript to provide an engaging and responsive experience across various devices.
 
 🌟 Features
@@ -19,9 +20,9 @@ Welcome to my personal portfolio website! This project showcases my skills, proj
 
 📁 Folder Structure
 
-/images           # Contains images used in the portfolio  
-/style.css        # Main stylesheet  
-/index.html       # Main HTML structure  
+   /images           # Contains images used in the portfolio  
+   /style.css        # Main stylesheet  
+   /index.html       # Main HTML structure  
 
 📧 Contact
 Feel free to reach out to me via email or follow me on social media:
