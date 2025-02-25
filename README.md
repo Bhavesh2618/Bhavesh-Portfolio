@@ -32,6 +32,7 @@ Feel free to reach out to me via email or follow me on social media:
 
 - Email: bhavesh.kumarp2618@gmail.com
 - Phone: 8522022445
+- LinkedIn: www.linkedin.com/in/bhavesh-kumar2618
 
 🏗️ Setup
 To run this project locally, follow these steps:
