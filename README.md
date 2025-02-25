@@ -20,12 +20,16 @@ Welcome to my personal portfolio website! This project showcases my skills, proj
 
 📁 Folder Structure
 
-   /images           # Contains images used in the portfolio  
-   /style.css        # Main stylesheet  
-   /index.html       # Main HTML structure  
+
+   1. /images           # Contains images used in the portfolio 
+   2. /style.css        # Main stylesheet  
+   3. /index.html       # Main HTML structure  
+ 
 
 📧 Contact
+
 Feel free to reach out to me via email or follow me on social media:
+
 - Email: bhavesh.kumarp2618@gmail.com
 - Phone: 8522022445
 
